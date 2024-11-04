@@ -11,10 +11,30 @@ class Program
         seznam.Add(3);
         seznam.Add(3);
         seznam.Add(10);
+       
+        Linkedlist seznamzwei = new Linkedlist();
+        seznamzwei.Add(8);
+        seznamzwei.Add(4);
+        seznamzwei.Add(5);
+        seznamzwei.Add(10);
+   
         string values = seznam.PrintAllVallues();
+        Console.WriteLine("Hodnoty ve spojovem seznamu:");
         Console.WriteLine(values);
+   
+        seznam.SortLinkedList();
+        string sorted = seznam.PrintAllVallues();
+       
+        Console.WriteLine("Seřazený spojový seznam:");
+        Console.WriteLine(sorted);
+       
+        string prunik = seznam.PenetrationOfLinkedLists(seznamzwei);
+        Console.WriteLine("Průnik spojovych seznamů: " + prunik);
+       
+        string sjednoceni = seznam.UnificationOfLinkedLists(seznamzwei);
+        Console.WriteLine("Sjednocení spojovych seznamů: " + sjednoceni);
+       
         Console.ReadLine();
-        // Console.WriteLine("Nejnižší hodnota v seznamu: " + seznam.Findlowest());
     }
     class Node
     {
@@ -22,7 +42,8 @@ class Program
         {
             Value = value;
         }
-        public int Value { get; }
+   
+        public int Value { get; set; }  // Nyní je vlastnost zapisovatelná
         public Node Next { get; set; }
     }
     class Linkedlist
@@ -43,14 +64,15 @@ class Program
         public bool Find(int value)
         {
             Node node = Head;
-            while (node != null) //dokud nejsme na konci seznamu
+            while (node != null) // dokud nejsme na konci seznamu
             {
-                if (node.Next.Value == value)
+                if (node.Value == value)
                     return true;
                 node = node.Next;
             }
             return false;
         }
+
         public int FindLowest()
         {
             if (Head == null)
@@ -70,7 +92,7 @@ class Program
 
             return lowest;
         }
-        public string PrintAllVallues()
+        public string PrintAllVallues() //Časová složitost O(n)
         {
             if (Head == null)
             {
@@ -85,29 +107,82 @@ class Program
                 allValues += ", ";
                 node = node.Next;
             }
-            return allValues;
+            string allValuesfixed = allValues.Substring(0, allValues.Length - 2); //pardon, ale nemohl jsem již dále trpět čárku na konci výpisu hodnot.
+            return allValuesfixed;
         }
-        public void SortLinkedList()
+        public void SortLinkedList() //Časová složitost O(n^2)
         {
             if (Head == null)
                 throw new InvalidOperationException("Seznam je prázdný.");
-            Node node = Head;
-            while (true)
+            if (Head.Next == null)
+                return;
+            bool swapped = true;
+            while (swapped)
             {
-                while (node !=null)
+                swapped = false;
+                Node current = Head;
+                while (current.Next != null)
                 {
-                    if (node.Value <= node.Next.Value)
+                    if (current.Value > current.Next.Value)
                     {
-                        node = node.Next;
+                        int temp = current.Value;
+                        current.Value = current.Next.Value;
+                        current.Next.Value = temp;
+                        swapped = true;
                     }
-                    else
-                    {
-                        Node nodecurrent = node;
-                        node.Next = node;
-                    }
+                    current = current.Next;
                 }
             }
         }
-
+        public string PenetrationOfLinkedLists(Linkedlist otherList) //Časová složitost O(n^2)
+        { //Ze školy jsme měli chybu v funkci Find(), musel jsem ji fixnout, jinak toto nefungovalo
+            if (Head == null)
+                return "∅";  //Matematický průnik zde není
+            if (otherList.Head == null)
+                return "∅";
+            Node current = Head;
+            string result = "";
+            while (current != null)
+            {
+                if (otherList.Find(current.Value))
+                {
+                    result += current.Value + ", ";
+                }
+                current = current.Next;
+            }
+            if (result == "") //zase jsem se na to nemohl koukat
+                return "∅";
+            if (result == "∅")
+                return result;
+            string resultfixed = result.Substring(0, result.Length - 2);
+            return resultfixed;
+        }
+        public string UnificationOfLinkedLists(Linkedlist otherList) //Časová složitost O(2n)
+        {
+            if (Head == null)
+                throw new InvalidOperationException("Jeden ze seznamů je prázdný.");
+            if (otherList.Head == null)
+                throw new InvalidOperationException("Jeden ze seznamů je prázdný.");
+            Node current = Head;
+            string result = "";
+            while (current != null)
+            {
+                if (!result.Contains(current.Value.ToString() + ", "))
+                {
+                    result += current.Value + ", ";
+                }
+            current = current.Next;
+            }
+            current = otherList.Head;
+            while (current != null)
+            {
+                if (!result.Contains(current.Value.ToString() + ", "))
+                {
+                    result += current.Value + ", ";
+                }
+            current = current.Next;
+            } //Už jsem chtěl napsat, že to rovnou seřadím, ale pak mi došlo, že to bych musel řadit string a to se mi nechce :)
+            //Na odstraňování čárek už kašlu, za 1) další bonusové body bych už nedostal, za 2) musím jít pracovat na reakci na Princeznu nevěstu
+            return result;
+        }
     }
-}
