@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\borto\\source\\repos\\Grafy - soci\u00E1ln\u00ED interakce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37D33BF8-AE19-4B52-B3AB-39FD637A1A0C}|Grafy - soci\u00E1ln\u00ED interakce\\Grafy - soci\u00E1ln\u00ED interakce.csproj|c:\\users\\borto\\source\\repos\\grafy - soci\u00E1ln\u00ED interakce\\grafy - soci\u00E1ln\u00ED interakce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37D33BF8-AE19-4B52-B3AB-39FD637A1A0C}|Grafy - soci\u00E1ln\u00ED interakce\\Grafy - soci\u00E1ln\u00ED interakce.csproj|solutionrelative:grafy - soci\u00E1ln\u00ED interakce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\borto\\source\\repos\\Grafy - soci\u00E1ln\u00ED interakce\\Grafy - soci\u00E1ln\u00ED interakce\\Program.cs",
+              "RelativeDocumentMoniker": "Grafy - soci\u00E1ln\u00ED interakce\\Program.cs",
+              "ToolTip": "C:\\Users\\borto\\source\\repos\\Grafy - soci\u00E1ln\u00ED interakce\\Grafy - soci\u00E1ln\u00ED interakce\\Program.cs*",
+              "RelativeToolTip": "Grafy - soci\u00E1ln\u00ED interakce\\Program.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCYAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T12:25:01.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

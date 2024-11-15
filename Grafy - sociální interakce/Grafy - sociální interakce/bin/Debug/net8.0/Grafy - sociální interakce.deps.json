@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Grafy - sociální interakce/1.0.0": {
+        "runtime": {
+          "Grafy - sociální interakce.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Grafy - sociální interakce/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

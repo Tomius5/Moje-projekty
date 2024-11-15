@@ -1,0 +1,14 @@
+C:\Users\borto\source\repos\Grafy - sociální interakce\Grafy - sociální interakce\bin\Debug\net8.0\Grafy - sociální interakce.exe
+C:\Users\borto\source\repos\Grafy - sociální interakce\Grafy - sociální interakce\bin\Debug\net8.0\Grafy - sociální interakce.deps.json
+C:\Users\borto\source\repos\Grafy - sociální interakce\Grafy - sociální interakce\bin\Debug\net8.0\Grafy - sociální interakce.runtimeconfig.json
+C:\Users\borto\source\repos\Grafy - sociální interakce\Grafy - sociální interakce\bin\Debug\net8.0\Grafy - sociální interakce.dll
+C:\Users\borto\source\repos\Grafy - sociální interakce\Grafy - sociální interakce\bin\Debug\net8.0\Grafy - sociální interakce.pdb
+C:\Users\borto\source\repos\Grafy - sociální interakce\Grafy - sociální interakce\obj\Debug\net8.0\Grafy - sociální interakce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borto\source\repos\Grafy - sociální interakce\Grafy - sociální interakce\obj\Debug\net8.0\Grafy - sociální interakce.AssemblyInfoInputs.cache
+C:\Users\borto\source\repos\Grafy - sociální interakce\Grafy - sociální interakce\obj\Debug\net8.0\Grafy - sociální interakce.AssemblyInfo.cs
+C:\Users\borto\source\repos\Grafy - sociální interakce\Grafy - sociální interakce\obj\Debug\net8.0\Grafy - sociální interakce.csproj.CoreCompileInputs.cache
+C:\Users\borto\source\repos\Grafy - sociální interakce\Grafy - sociální interakce\obj\Debug\net8.0\Grafy - sociální interakce.dll
+C:\Users\borto\source\repos\Grafy - sociální interakce\Grafy - sociální interakce\obj\Debug\net8.0\refint\Grafy - sociální interakce.dll
+C:\Users\borto\source\repos\Grafy - sociální interakce\Grafy - sociální interakce\obj\Debug\net8.0\Grafy - sociální interakce.pdb
+C:\Users\borto\source\repos\Grafy - sociální interakce\Grafy - sociální interakce\obj\Debug\net8.0\Grafy - sociální interakce.genruntimeconfig.cache
+C:\Users\borto\source\repos\Grafy - sociální interakce\Grafy - sociální interakce\obj\Debug\net8.0\ref\Grafy - sociální interakce.dll
