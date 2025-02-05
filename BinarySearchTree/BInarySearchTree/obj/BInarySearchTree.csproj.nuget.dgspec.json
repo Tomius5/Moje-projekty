@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "O:\\C#\\Moje projekty\\BinarySearchTree\\BInarySearchTree\\BInarySearchTree.csproj": {}
+  },
+  "projects": {
+    "O:\\C#\\Moje projekty\\BinarySearchTree\\BInarySearchTree\\BInarySearchTree.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "O:\\C#\\Moje projekty\\BinarySearchTree\\BInarySearchTree\\BInarySearchTree.csproj",
+        "projectName": "BInarySearchTree",
+        "projectPath": "O:\\C#\\Moje projekty\\BinarySearchTree\\BInarySearchTree\\BInarySearchTree.csproj",
+        "packagesPath": "C:\\Users\\borovickat\\.nuget\\packages\\",
+        "outputPath": "O:\\C#\\Moje projekty\\BinarySearchTree\\BInarySearchTree\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\borovickat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

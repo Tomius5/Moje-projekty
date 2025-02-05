@@ -1,0 +1,16 @@
+O:\C#\Moje projekty\BinarySearchTree\BInarySearchTree\obj\Debug\net5.0\BInarySearchTree.GeneratedMSBuildEditorConfig.editorconfig
+O:\C#\Moje projekty\BinarySearchTree\BInarySearchTree\obj\Debug\net5.0\BInarySearchTree.AssemblyInfoInputs.cache
+O:\C#\Moje projekty\BinarySearchTree\BInarySearchTree\obj\Debug\net5.0\BInarySearchTree.AssemblyInfo.cs
+O:\C#\Moje projekty\BinarySearchTree\BInarySearchTree\obj\Debug\net5.0\BInarySearchTree.csproj.CoreCompileInputs.cache
+O:\C#\Moje projekty\BinarySearchTree\BInarySearchTree\obj\Debug\net5.0\BInarySearchTree.sourcelink.json
+O:\C#\Moje projekty\BinarySearchTree\BInarySearchTree\bin\Debug\net5.0\BInarySearchTree.exe
+O:\C#\Moje projekty\BinarySearchTree\BInarySearchTree\bin\Debug\net5.0\BInarySearchTree.deps.json
+O:\C#\Moje projekty\BinarySearchTree\BInarySearchTree\bin\Debug\net5.0\BInarySearchTree.runtimeconfig.json
+O:\C#\Moje projekty\BinarySearchTree\BInarySearchTree\bin\Debug\net5.0\BInarySearchTree.runtimeconfig.dev.json
+O:\C#\Moje projekty\BinarySearchTree\BInarySearchTree\bin\Debug\net5.0\BInarySearchTree.dll
+O:\C#\Moje projekty\BinarySearchTree\BInarySearchTree\bin\Debug\net5.0\BInarySearchTree.pdb
+O:\C#\Moje projekty\BinarySearchTree\BInarySearchTree\obj\Debug\net5.0\BInarySearchTree.dll
+O:\C#\Moje projekty\BinarySearchTree\BInarySearchTree\obj\Debug\net5.0\refint\BInarySearchTree.dll
+O:\C#\Moje projekty\BinarySearchTree\BInarySearchTree\obj\Debug\net5.0\BInarySearchTree.pdb
+O:\C#\Moje projekty\BinarySearchTree\BInarySearchTree\obj\Debug\net5.0\BInarySearchTree.genruntimeconfig.cache
+O:\C#\Moje projekty\BinarySearchTree\BInarySearchTree\obj\Debug\net5.0\ref\BInarySearchTree.dll
