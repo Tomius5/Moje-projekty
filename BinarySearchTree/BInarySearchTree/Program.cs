@@ -1,6 +1,7 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Runtime.Serialization;
 using System.Text;
 
 namespace BInarySearchTree
@@ -38,7 +39,14 @@ namespace BInarySearchTree
                 }
             }
             Console.WriteLine(tree.Find(20).Value);         
-
+            Console.WriteLine(tree.Min().Value);
+            tree.Insert(6969, new Student(6969, "David", "Stráňava", 18, "3.C"));
+            Console.WriteLine(tree.Find(6969).Value);
+            for (int i = 0; i < 9999 ; i+= 2)
+            {
+                tree.Remove(i);
+            }
+            Console.WriteLine(tree.Show());
         }
     }
 
@@ -74,11 +82,58 @@ namespace BInarySearchTree
         /// <returns>Returns True if node was successfully inserted or False if inserted key was already present.</returns>
         public void Remove(int deletingKey)
         {
-            if (Find(deletingKey) == null)
+            Node<T> parent = null;
+            Node<T> node = Root;
+
+            while (node != null && node.Key != deletingKey)
             {
+                parent = node;
+                if (deletingKey < node.Key)
+                    node = node.LeftSon;
+                else
+                    node = node.RightSon;
+            }
+
+            if (node == null)
                 return;
+
+            if (node.LeftSon == null && node.RightSon == null)
+            {
+                if (parent == null) 
+                    Root = null;
+                if (parent.LeftSon == node)
+                    parent.LeftSon = null;
+                if (parent.RightSon == node)
+                    parent.RightSon = null;
+            }
+            if (node.LeftSon == null && node.RightSon != null)
+            {
+                if (parent.LeftSon == node)
+                    parent.LeftSon = node.RightSon;
+                if (parent.RightSon == node)
+                    parent.RightSon = node.RightSon;
+            }
+            if (node.LeftSon != null && node.RightSon == null) //to rozhodně musí jít i bez toho, abych to kopíroval, ale mi se nechce hledat, jak dát nebo do podmínky
+            {
+                if (parent.LeftSon == node)
+                    parent.LeftSon = node.LeftSon;
+                if (parent.RightSon == node)
+                    parent.RightSon = node.LeftSon;
+            }
+            if (node.LeftSon != null && node.RightSon != null)
+            {
+                Node<T> successor = _min(node.RightSon); // tohle, když mě napadlo místo toho while, co jsem tu měl předtím, tak jsem myslel, že se asi zabiju
+
+                int successorKey = successor.Key;
+                T successorValue = successor.Value;
+
+                Remove(successor.Key); 
+
+                node.Key = successorKey;
+                node.Value = successorValue;
             }
         }
+
         public void Insert(int newKey, T newValue) // chceme, aby nikdo zvenku nemusel specifikovat kořen stromu, a strom sám ví, co je jeho kořen => rozdělíme na public Insert a rekurzivní private _insert
         {
             Node<T> _insert(Node<T> node, int newKey, T newValue)
