@@ -1,8 +1,12 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "keyJ2il81mk=",
+=======
+  "dgSpecHash": "HcsoBQiAWqE=",
+>>>>>>> Stashed changes
   "success": true,
-  "projectFilePath": "O:\\C#\\Moje projekty\\BinarySearchTree\\BInarySearchTree\\BInarySearchTree.csproj",
+  "projectFilePath": "C:\\Users\\borto\\Documents\\Programování\\Moje-projekty\\BinarySearchTree\\BInarySearchTree\\BInarySearchTree.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

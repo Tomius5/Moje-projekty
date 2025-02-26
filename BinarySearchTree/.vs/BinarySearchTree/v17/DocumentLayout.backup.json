@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "O:\\C#\\Moje projekty\\BinarySearchTree\\",
+  "WorkspaceRootPath": "C:\\Users\\borto\\Documents\\Programov\u00E1n\u00ED\\Moje-projekty\\BinarySearchTree\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{21F59873-C55E-4EA5-92B0-2B842340D360}|BInarySearchTree\\BInarySearchTree.csproj|o:\\c#\\moje projekty\\binarysearchtree\\binarysearchtree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{21F59873-C55E-4EA5-92B0-2B842340D360}|BInarySearchTree\\BInarySearchTree.csproj|c:\\users\\borto\\documents\\programov\u00E1n\u00ED\\moje-projekty\\binarysearchtree\\binarysearchtree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21F59873-C55E-4EA5-92B0-2B842340D360}|BInarySearchTree\\BInarySearchTree.csproj|solutionrelative:binarysearchtree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,17 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "O:\\C#\\Moje projekty\\BinarySearchTree\\BInarySearchTree\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\borto\\Documents\\Programov\u00E1n\u00ED\\Moje-projekty\\BinarySearchTree\\BInarySearchTree\\Program.cs",
               "RelativeDocumentMoniker": "BInarySearchTree\\Program.cs",
+<<<<<<< Updated upstream
               "ToolTip": "O:\\C#\\Moje projekty\\BinarySearchTree\\BInarySearchTree\\Program.cs",
               "RelativeToolTip": "BInarySearchTree\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAwHEAAAAmAAAAAAAAAA==",
+=======
+              "ToolTip": "C:\\Users\\borto\\Documents\\Programov\u00E1n\u00ED\\Moje-projekty\\BinarySearchTree\\BInarySearchTree\\Program.cs",
+              "RelativeToolTip": "BInarySearchTree\\Program.cs",
+              "ViewState": "AgIAAO8AAAAAAAAAAAAowP8AAAAAAAAAAAAAAA==",
+>>>>>>> Stashed changes
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T13:52:00.206Z",
               "EditorCaption": ""

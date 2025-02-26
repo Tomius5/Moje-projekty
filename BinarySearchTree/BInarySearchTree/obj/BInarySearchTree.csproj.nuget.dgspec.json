@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "O:\\C#\\Moje projekty\\BinarySearchTree\\BInarySearchTree\\BInarySearchTree.csproj": {}
+    "C:\\Users\\borto\\Documents\\Programování\\Moje-projekty\\BinarySearchTree\\BInarySearchTree\\BInarySearchTree.csproj": {}
   },
   "projects": {
-    "O:\\C#\\Moje projekty\\BinarySearchTree\\BInarySearchTree\\BInarySearchTree.csproj": {
+    "C:\\Users\\borto\\Documents\\Programování\\Moje-projekty\\BinarySearchTree\\BInarySearchTree\\BInarySearchTree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "O:\\C#\\Moje projekty\\BinarySearchTree\\BInarySearchTree\\BInarySearchTree.csproj",
+        "projectUniqueName": "C:\\Users\\borto\\Documents\\Programování\\Moje-projekty\\BinarySearchTree\\BInarySearchTree\\BInarySearchTree.csproj",
         "projectName": "BInarySearchTree",
-        "projectPath": "O:\\C#\\Moje projekty\\BinarySearchTree\\BInarySearchTree\\BInarySearchTree.csproj",
-        "packagesPath": "C:\\Users\\borovickat\\.nuget\\packages\\",
-        "outputPath": "O:\\C#\\Moje projekty\\BinarySearchTree\\BInarySearchTree\\obj\\",
+        "projectPath": "C:\\Users\\borto\\Documents\\Programování\\Moje-projekty\\BinarySearchTree\\BInarySearchTree\\BInarySearchTree.csproj",
+        "packagesPath": "C:\\Users\\borto\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\borto\\Documents\\Programování\\Moje-projekty\\BinarySearchTree\\BInarySearchTree\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\borovickat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\borto\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -63,7 +60,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< Updated upstream
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.406\\RuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+>>>>>>> Stashed changes
         }
       }
     }
