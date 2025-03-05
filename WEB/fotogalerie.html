@@ -1,0 +1,150 @@
+<!DOCTYPE html> <!--Umožňuje nastavit typ dokumentu pro správné renderování-->
+<html lang="cs"> <!--obaluje celý dokument, "root element"-->
+<!--nastavujeme v něm jazyk stránky pro správné čtení nějakou čtečkou, zalamování slov dle pravidel daného jazyka, lepší indexaci stránky a zařazení pod správnou jazykovou kategorii-->
+<head> <!--hlavička obsahuje meta informace o dokumentu-->
+    <title>Fotogalerie</title> <!--název karty v prohlížeči a celého dokumentu-->
+    <meta charset="UTF-8"> <!--nastavení kódování, aby se správně zobrazovaly i složitější symboly-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!--pro responzivní design a správnému zobrazování na libovolném zařízení-->
+    <link href="styles3.css" rel="stylesheet">
+    <script src="script2.js"></script>
+    <!---- <script src="script.js"></script> -->
+    <link rel="icon" type="image/x-icon" href="treesteamlogo.ico">
+    <meta name="Treesteam" content="Stránka o Tomášovi Borovičkovi">
+    <meta name="keywords" content="Fotogalerie">
+    <!--dále zde například přidáváme odkazy na další potřebné soubory obsahující např. CSS nebo JavaScript-->
+</head>
+<body>
+    <nav>
+        <div class="nav-container">
+            <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0&ab_channel=Duran">
+                <img src="treesteamlogo.png" class="logo" alt="Logo">
+            </a>
+            <ul>
+                <li><a href="index.html">Domů</a></li>
+                <li><a href="druha.html">Druhá stránka</a></li>
+                <li><a href="treti.html">Třetí stránka</a></li>
+                <li><a href="fotogalerie.html">Fotogalerie</a></li>
+            </ul>
+        </div>
+    </nav>
+    <div class="content-container">
+        <section class="gallery-section" id="section1">
+            <h3 class="section-title" onclick="toggleSection('section1')">Škola</h3>
+            <ul class="gallery-list" id="list1" style="display: none;">
+                <li><img src="1a.jpg" alt="Image 1a" onclick="openImage(this.src, 'Spící Pavel', 'Pavel si dopřává zaslouženého odpočinku po těžkém školním dni')"></li>
+                <li><img src="1b.jpg" alt="Image 1b" onclick="openImage(this.src, 'Image 1b', 'Popis k obrázku 1b')"></li>
+                <li><img src="1c.jpg" alt="Image 1c" onclick="openImage(this.src, 'Image 1c', 'Popis k obrázku 1c')"></li>
+                <li><img src="1d.jpg" alt="Image 1d" onclick="openImage(this.src, 'Image 1d', 'Popis k obrázku 1d')"></li>
+                <li><img src="1e.jpg" alt="Image 1e" onclick="openImage(this.src, 'Image 1e', 'Popis k obrázku 1e')"></li>
+                <li><img src="1f.jpg" alt="Image 1f" onclick="openImage(this.src, 'Image 1f', 'Popis k obrázku 1f')"></li>
+                <li><img src="1g.jpg" alt="Image 1g" onclick="openImage(this.src, 'Image 1g', 'Popis k obrázku 1g')"></li>
+                <li><img src="1h.jpg" alt="Image 1h" onclick="openImage(this.src, 'Image 1h', 'Popis k obrázku 1h')"></li>
+                <li><img src="1i.jpg" alt="Image 1i" onclick="openImage(this.src, 'Image 1i', 'Popis k obrázku 1i')"></li>
+                <li><img src="1j.jpg" alt="Image 1j" onclick="openImage(this.src, 'Image 1j', 'Popis k obrázku 1j')"></li>
+            </ul>
+        </section>
+        <section class="gallery-section" id="section2">
+            <h3 class="section-title" onclick="toggleSection('section2')">Sekce 2</h3>
+            <ul class="gallery-list" id="list2" style="display: none;">
+                <li><img src="2a.jpg" alt="Image 2a" onclick="openImage(this.src, 'Image 2a', 'Popis k obrázku 2a')"></li>
+                <li><img src="2b.jpg" alt="Image 2b" onclick="openImage(this.src, 'Image 2b', 'Popis k obrázku 2b')"></li>
+                <li><img src="2c.jpg" alt="Image 2c" onclick="openImage(this.src, 'Image 2c', 'Popis k obrázku 2c')"></li>
+                <li><img src="2d.jpg" alt="Image 2d" onclick="openImage(this.src, 'Image 2d', 'Popis k obrázku 2d')"></li>
+                <li><img src="2e.jpg" alt="Image 2e" onclick="openImage(this.src, 'Image 2e', 'Popis k obrázku 2e')"></li>
+                <li><img src="2f.jpg" alt="Image 2f" onclick="openImage(this.src, 'Image 2f', 'Popis k obrázku 2f')"></li>
+                <li><img src="2g.jpg" alt="Image 2g" onclick="openImage(this.src, 'Image 2g', 'Popis k obrázku 2g')"></li>
+                <li><img src="2h.jpg" alt="Image 2h" onclick="openImage(this.src, 'Image 2h', 'Popis k obrázku 2h')"></li>
+                <li><img src="2i.jpg" alt="Image 2i" onclick="openImage(this.src, 'Image 2i', 'Popis k obrázku 2i')"></li>
+                <li><img src="2j.jpg" alt="Image 2j" onclick="openImage(this.src, 'Image 2j', 'Popis k obrázku 2j')"></li>
+            </ul>
+        </section>
+        <section class="gallery-section" id="section3">
+            <h3 class="section-title" onclick="toggleSection('section3')">Sekce 3</h3>
+            <ul class="gallery-list" id="list3" style="display: none;">
+                <li><img src="3a.jpg" alt="Image 3a" onclick="openImage(this.src, 'Image 3a', 'Popis k obrázku 3a')"></li>
+                <li><img src="3b.jpg" alt="Image 3b" onclick="openImage(this.src, 'Image 3b', 'Popis k obrázku 3b')"></li>
+                <li><img src="3c.jpg" alt="Image 3c" onclick="openImage(this.src, 'Image 3c', 'Popis k obrázku 3c')"></li>
+                <li><img src="3d.jpg" alt="Image 3d" onclick="openImage(this.src, 'Image 3d', 'Popis k obrázku 3d')"></li>
+                <li><img src="3e.jpg" alt="Image 3e" onclick="openImage(this.src, 'Image 3e', 'Popis k obrázku 3e')"></li>
+                <li><img src="3f.jpg" alt="Image 3f" onclick="openImage(this.src, 'Image 3f', 'Popis k obrázku 3f')"></li>
+                <li><img src="3g.jpg" alt="Image 3g" onclick="openImage(this.src, 'Image 3g', 'Popis k obrázku 3g')"></li>
+                <li><img src="3h.jpg" alt="Image 3h" onclick="openImage(this.src, 'Image 3h', 'Popis k obrázku 3h')"></li>
+                <li><img src="3i.jpg" alt="Image 3i" onclick="openImage(this.src, 'Image 3i', 'Popis k obrázku 3i')"></li>
+                <li><img src="3j.jpg" alt="Image 3j" onclick="openImage(this.src, 'Image 3j', 'Popis k obrázku 3j')"></li>
+            </ul>
+        </section>
+        <section class="gallery-section" id="section4">
+            <h3 class="section-title" onclick="toggleSection('section4')">Sekce 4</h3>
+            <ul class="gallery-list" id="list4" style="display: none;">
+                <li><img src="4a.jpg" alt="Image 4a" onclick="openImage(this.src, 'Image 4a', 'Popis k obrázku 4a')"></li>
+                <li><img src="4b.jpg" alt="Image 4b" onclick="openImage(this.src, 'Image 4b', 'Popis k obrázku 4b')"></li>
+                <li><img src="4c.jpg" alt="Image 4c" onclick="openImage(this.src, 'Image 4c', 'Popis k obrázku 4c')"></li>
+                <li><img src="4d.jpg" alt="Image 4d" onclick="openImage(this.src, 'Image 4d', 'Popis k obrázku 4d')"></li>
+                <li><img src="4e.jpg" alt="Image 4e" onclick="openImage(this.src, 'Image 4e', 'Popis k obrázku 4e')"></li>
+                <li><img src="4f.jpg" alt="Image 4f" onclick="openImage(this.src, 'Image 4f', 'Popis k obrázku 4f')"></li>
+                <li><img src="4g.jpg" alt="Image 4g" onclick="openImage(this.src, 'Image 4g', 'Popis k obrázku 4g')"></li>
+                <li><img src="4h.jpg" alt="Image 4h" onclick="openImage(this.src, 'Image 4h', 'Popis k obrázku 4h')"></li>
+                <li><img src="4i.jpg" alt="Image 4i" onclick="openImage(this.src, 'Image 4i', 'Popis k obrázku 4i')"></li>
+                <li><img src="4j.jpg" alt="Image 4j" onclick="openImage(this.src, 'Image 4j', 'Popis k obrázku 4j')"></li>
+            </ul>
+        </section>
+        <section class="gallery-section" id="section5">
+            <h3 class="section-title" onclick="toggleSection('section5')">Sekce 5</h3>
+            <ul class="gallery-list" id="list5" style="display: none;">
+                <li><img src="5a.jpg" alt="Image 5a" onclick="openImage(this.src, 'Image 5a', 'Popis k obrázku 5a')"></li>
+                <li><img src="5b.jpg" alt="Image 5b" onclick="openImage(this.src, 'Image 5b', 'Popis k obrázku 5b')"></li>
+                <li><img src="5c.jpg" alt="Image 5c" onclick="openImage(this.src, 'Image 5c', 'Popis k obrázku 5c')"></li>
+                <li><img src="5d.jpg" alt="Image 5d" onclick="openImage(this.src, 'Image 5d', 'Popis k obrázku 5d')"></li>
+                <li><img src="5e.jpg" alt="Image 5e" onclick="openImage(this.src, 'Image 5e', 'Popis k obrázku 5e')"></li>
+                <li><img src="5f.jpg" alt="Image 5f" onclick="openImage(this.src, 'Image 5f', 'Popis k obrázku 5f')"></li>
+                <li><img src="5g.jpg" alt="Image 5g" onclick="openImage(this.src, 'Image 5g', 'Popis k obrázku 5g')"></li>
+                <li><img src="5h.jpg" alt="Image 5h" onclick="openImage(this.src, 'Image 5h', 'Popis k obrázku 5h')"></li>
+                <li><img src="5i.jpg" alt="Image 5i" onclick="openImage(this.src, 'Image 5i', 'Popis k obrázku 5i')"></li>
+                <li><img src="5j.jpg" alt="Image 5j" onclick="openImage(this.src, 'Image 5j', 'Popis k obrázku 5j')"></li>
+            </ul>
+        </section>
+    </div>
+    <footer>
+        <div class="footer-container">
+            <div class="footer-left">
+                <img src="ja.png" alt="Moje fotka" class="footer-photo">
+                <div class="footer-info">
+                    <h3>Tomáš Borovička</h3>
+                    <ul>
+                        <li>Vysoká škola života</li>
+                        <li>Frajer</li>
+                        <li>Developer</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-center">
+                <h3>Kontakty</h3>
+                <ul>
+                    <li>Email: <a href="mailto:borovickat@gchd.cz">borovickat@gchd.cz</a></li>
+                    <li>Telefon: +420 226 294 509</li>
+                    <li>Instagram: toma.sborovicka</li>
+                </ul>
+            </div>
+            <div class="footer-right">
+                <h3>Adresa</h3>
+                <ul>
+                    <li>Zborovská 621/45</li>
+                    <li>Praha 5, 150 00</li>
+                    <li>Česká republika</li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2025 Powered by Treesteam</p>
+            <p><a href="https://o.seznam.cz/ochrana-udaju/" class="custom-link">Ochrana osobních údajů</a></p>
+        </div>
+    </footer>
+    <!-- Modal container -->
+    <div id="modal" class="modal">
+        <span class="close">&times;</span>
+        <img class="modal-content" id="modalImg">
+        <div id="caption"></div>
+        <div id="description"></div>
+    </div>
+</body>
+</html>

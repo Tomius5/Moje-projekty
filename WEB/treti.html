@@ -1,16 +1,19 @@
 <!DOCTYPE html> <!--Umožňuje nastavit typ dokumentu pro správné renderování-->
 <html lang="cs"> <!--obaluje celý dokument, "root element"-->
-    <!--nastavujeme v něm jazyk stránky pro správné čtení nějakou čtečkou, zalamování slov dle pravidel daného jazyka, lepší indexaci stránky a zařazení pod správnou jazykovou kategorii-->
-    <head > <!--hlavička obsahuje meta informace o dokumentu-->
-        <title>O mém vzdělání</title> <!--název karty v prohlížeči a celého dokumentu-->
-        <meta charset="UTF-8"> <!--nastavení kódování, aby se správně zobrazovaly i složitější symboly-->
-        <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!--pro responzivní design a správnému zobrazování na libovolném zařízení-->
-        <link href="styles.css" rel="stylesheet">
-        <link rel="icon" type="image/x-icon" href="treesteamlogo.ico">
-        <!--dále zde například přidáváme odkazy na další potřebné soubory obsahující např. CSS nebo JavaScript-->
+<!--nastavujeme v něm jazyk stránky pro správné čtení nějakou čtečkou, zalamování slov dle pravidel daného jazyka, lepší indexaci stránky a zařazení pod správnou jazykovou kategorii-->
+<head> <!--hlavička obsahuje meta informace o dokumentu-->
+    <title>Kompetence</title> <!--název karty v prohlížeči a celého dokumentu-->
+    <meta charset="UTF-8"> <!--nastavení kódování, aby se správně zobrazovaly i složitější symboly-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!--pro responzivní design a správnému zobrazování na libovolném zařízení-->
+    <link href="styles.css" rel="stylesheet">
+    <script src="script.js"></script>
+    <link rel="icon" type="image/x-icon" href="treesteamlogo.ico">
+    <meta name="Treesteam" content="Stránka o Tomášovi Borovičkovi">
+    <meta name="keywords" content="treesteam, Tomáš, Borovička">
+    <!--dále zde například přidáváme odkazy na další potřebné soubory obsahující např. CSS nebo JavaScript-->
+</head>
     </head>
     <body>
-
         <nav>
             <div class="nav-container">
                 <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0&ab_channel=Duran">
@@ -20,6 +23,7 @@
                     <li><a href="index.html">Domů</a></li>
                     <li><a href="druha.html">Druhá stránka</a></li>
                     <li><a href="treti.html">Třetí stránka</a></li>
+                    <li><a href="fotogalerie.html">Fotogalerie</a></li>
                 </ul>
             </div>
         </nav>
@@ -41,5 +45,41 @@
             <li>Matematiku</li>
             <li>Organizovat věci</li>
           </ul>
+
+          <footer>
+            <div class="footer-container">
+                <div class="footer-left">
+                    <img src="ja.png" alt="Moje fotka" class="footer-photo">
+                    <div class="footer-info">
+                        <h3>Tomáš Borovička</h3>
+                        <ul>
+                            <li>Vysoká škola života</li>
+                            <li>Frajer</li>
+                            <li>Developer</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="footer-center">
+                    <h3>Kontakty</h3>
+                    <ul>
+                        <li>Email: <a href="mailto:borovickat@gchd.cz">borovickat@gchd.cz</a></li>
+                        <li>Telefon: +420 226 294 509</li>
+                        <li>Instagram: toma.sborovicka</li>
+                    </ul>
+                </div>
+                <div class="footer-right">
+                    <h3>Adresa</h3>
+                    <ul>
+                        <li>Zborovská 621/45</li>
+                        <li>Praha 5, 150 00</li>
+                        <li>Česká republika</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Powered by Treesteam</p>
+                <p><a href="https://o.seznam.cz/ochrana-udaju/" class="custom-link">Ochrana osobních údajů</a></p>
+            </div>
+        </footer>
     </body>
 </html>
