@@ -1,0 +1,7 @@
+C:\Users\borto\Documents\Programování\Moje-projekty\8.9_Projekt_final_final\8.9_Projekt_final_final\obj\Debug\8.9_Projekt_final_final.csproj.AssemblyReference.cache
+C:\Users\borto\Documents\Programování\Moje-projekty\8.9_Projekt_final_final\8.9_Projekt_final_final\obj\Debug\8.9_Projekt_final_final.csproj.CoreCompileInputs.cache
+C:\Users\borto\Documents\Programování\Moje-projekty\8.9_Projekt_final_final\8.9_Projekt_final_final\bin\Debug\8.9_Projekt_final_final.exe.config
+C:\Users\borto\Documents\Programování\Moje-projekty\8.9_Projekt_final_final\8.9_Projekt_final_final\bin\Debug\8.9_Projekt_final_final.exe
+C:\Users\borto\Documents\Programování\Moje-projekty\8.9_Projekt_final_final\8.9_Projekt_final_final\bin\Debug\8.9_Projekt_final_final.pdb
+C:\Users\borto\Documents\Programování\Moje-projekty\8.9_Projekt_final_final\8.9_Projekt_final_final\obj\Debug\8.9_Projekt_final_final.exe
+C:\Users\borto\Documents\Programování\Moje-projekty\8.9_Projekt_final_final\8.9_Projekt_final_final\obj\Debug\8.9_Projekt_final_final.pdb
