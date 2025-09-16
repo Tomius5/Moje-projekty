@@ -1,0 +1,15 @@
+C:\Users\borto\source\repos\Moje-projekty\Beast in Labhyrint\Beast in Labhyrint\bin\Debug\net8.0\Beast in Labhyrint.exe
+C:\Users\borto\source\repos\Moje-projekty\Beast in Labhyrint\Beast in Labhyrint\bin\Debug\net8.0\Beast in Labhyrint.deps.json
+C:\Users\borto\source\repos\Moje-projekty\Beast in Labhyrint\Beast in Labhyrint\bin\Debug\net8.0\Beast in Labhyrint.runtimeconfig.json
+C:\Users\borto\source\repos\Moje-projekty\Beast in Labhyrint\Beast in Labhyrint\bin\Debug\net8.0\Beast in Labhyrint.dll
+C:\Users\borto\source\repos\Moje-projekty\Beast in Labhyrint\Beast in Labhyrint\bin\Debug\net8.0\Beast in Labhyrint.pdb
+C:\Users\borto\source\repos\Moje-projekty\Beast in Labhyrint\Beast in Labhyrint\obj\Debug\net8.0\Beast in Labhyrint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borto\source\repos\Moje-projekty\Beast in Labhyrint\Beast in Labhyrint\obj\Debug\net8.0\Beast in Labhyrint.AssemblyInfoInputs.cache
+C:\Users\borto\source\repos\Moje-projekty\Beast in Labhyrint\Beast in Labhyrint\obj\Debug\net8.0\Beast in Labhyrint.AssemblyInfo.cs
+C:\Users\borto\source\repos\Moje-projekty\Beast in Labhyrint\Beast in Labhyrint\obj\Debug\net8.0\Beast in Labhyrint.csproj.CoreCompileInputs.cache
+C:\Users\borto\source\repos\Moje-projekty\Beast in Labhyrint\Beast in Labhyrint\obj\Debug\net8.0\Beast in Labhyrint.sourcelink.json
+C:\Users\borto\source\repos\Moje-projekty\Beast in Labhyrint\Beast in Labhyrint\obj\Debug\net8.0\Beast in Labhyrint.dll
+C:\Users\borto\source\repos\Moje-projekty\Beast in Labhyrint\Beast in Labhyrint\obj\Debug\net8.0\refint\Beast in Labhyrint.dll
+C:\Users\borto\source\repos\Moje-projekty\Beast in Labhyrint\Beast in Labhyrint\obj\Debug\net8.0\Beast in Labhyrint.pdb
+C:\Users\borto\source\repos\Moje-projekty\Beast in Labhyrint\Beast in Labhyrint\obj\Debug\net8.0\Beast in Labhyrint.genruntimeconfig.cache
+C:\Users\borto\source\repos\Moje-projekty\Beast in Labhyrint\Beast in Labhyrint\obj\Debug\net8.0\ref\Beast in Labhyrint.dll
