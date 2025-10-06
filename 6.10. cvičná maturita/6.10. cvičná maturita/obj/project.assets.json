@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "O:\\C#\\Moje projekty\\Moje-projekty\\Beast in Labhyrint\\Beast in Labhyrint\\Beast in Labhyrint.csproj",
-      "projectName": "Beast in Labhyrint",
-      "projectPath": "O:\\C#\\Moje projekty\\Moje-projekty\\Beast in Labhyrint\\Beast in Labhyrint\\Beast in Labhyrint.csproj",
+      "projectUniqueName": "C:\\Users\\borovickat\\source\\repos\\6.10. cvičná maturita\\6.10. cvičná maturita\\6.10. cvičná maturita.csproj",
+      "projectName": "6.10. cvičná maturita",
+      "projectPath": "C:\\Users\\borovickat\\source\\repos\\6.10. cvičná maturita\\6.10. cvičná maturita\\6.10. cvičná maturita.csproj",
       "packagesPath": "C:\\Users\\borovickat\\.nuget\\packages\\",
-      "outputPath": "O:\\C#\\Moje projekty\\Moje-projekty\\Beast in Labhyrint\\Beast in Labhyrint\\obj\\",
+      "outputPath": "C:\\Users\\borovickat\\source\\repos\\6.10. cvičná maturita\\6.10. cvičná maturita\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

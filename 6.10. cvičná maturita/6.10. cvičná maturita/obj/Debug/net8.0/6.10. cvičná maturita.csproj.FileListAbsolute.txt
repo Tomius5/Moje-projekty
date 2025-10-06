@@ -1,0 +1,14 @@
+C:\Users\borovickat\source\repos\6.10. cvičná maturita\6.10. cvičná maturita\bin\Debug\net8.0\6.10. cvičná maturita.exe
+C:\Users\borovickat\source\repos\6.10. cvičná maturita\6.10. cvičná maturita\bin\Debug\net8.0\6.10. cvičná maturita.deps.json
+C:\Users\borovickat\source\repos\6.10. cvičná maturita\6.10. cvičná maturita\bin\Debug\net8.0\6.10. cvičná maturita.runtimeconfig.json
+C:\Users\borovickat\source\repos\6.10. cvičná maturita\6.10. cvičná maturita\bin\Debug\net8.0\6.10. cvičná maturita.dll
+C:\Users\borovickat\source\repos\6.10. cvičná maturita\6.10. cvičná maturita\bin\Debug\net8.0\6.10. cvičná maturita.pdb
+C:\Users\borovickat\source\repos\6.10. cvičná maturita\6.10. cvičná maturita\obj\Debug\net8.0\6.10. cvičná maturita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borovickat\source\repos\6.10. cvičná maturita\6.10. cvičná maturita\obj\Debug\net8.0\6.10. cvičná maturita.AssemblyInfoInputs.cache
+C:\Users\borovickat\source\repos\6.10. cvičná maturita\6.10. cvičná maturita\obj\Debug\net8.0\6.10. cvičná maturita.AssemblyInfo.cs
+C:\Users\borovickat\source\repos\6.10. cvičná maturita\6.10. cvičná maturita\obj\Debug\net8.0\6.10. cvičná maturita.csproj.CoreCompileInputs.cache
+C:\Users\borovickat\source\repos\6.10. cvičná maturita\6.10. cvičná maturita\obj\Debug\net8.0\6.10. cvičná maturita.dll
+C:\Users\borovickat\source\repos\6.10. cvičná maturita\6.10. cvičná maturita\obj\Debug\net8.0\refint\6.10. cvičná maturita.dll
+C:\Users\borovickat\source\repos\6.10. cvičná maturita\6.10. cvičná maturita\obj\Debug\net8.0\6.10. cvičná maturita.pdb
+C:\Users\borovickat\source\repos\6.10. cvičná maturita\6.10. cvičná maturita\obj\Debug\net8.0\6.10. cvičná maturita.genruntimeconfig.cache
+C:\Users\borovickat\source\repos\6.10. cvičná maturita\6.10. cvičná maturita\obj\Debug\net8.0\ref\6.10. cvičná maturita.dll

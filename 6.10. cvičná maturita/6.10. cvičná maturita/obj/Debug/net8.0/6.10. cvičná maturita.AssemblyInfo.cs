@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Beast in Labhyrint")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("6.10. cvičná maturita")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1495c141faf3b72420f3aac47418ce31baaf3b8f")]
-[assembly: System.Reflection.AssemblyProductAttribute("Beast in Labhyrint")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Beast in Labhyrint")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyProductAttribute("6.10. cvičná maturita")]
+[assembly: System.Reflection.AssemblyTitleAttribute("6.10. cvičná maturita")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Vygenerované třídou WriteCodeFragment nástroje MSBuild

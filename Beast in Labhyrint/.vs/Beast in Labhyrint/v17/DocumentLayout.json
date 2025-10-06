@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\borto\\source\\repos\\Moje-projekty\\Beast in Labhyrint\\",
+  "WorkspaceRootPath": "O:\\C#\\Moje projekty\\Moje-projekty\\Beast in Labhyrint\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8CD4568-47D2-4BCC-B239-0C2029FD61D6}|Beast in Labhyrint\\Beast in Labhyrint.csproj|c:\\users\\borto\\source\\repos\\moje-projekty\\beast in labhyrint\\beast in labhyrint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8CD4568-47D2-4BCC-B239-0C2029FD61D6}|Beast in Labhyrint\\Beast in Labhyrint.csproj|o:\\c#\\moje projekty\\moje-projekty\\beast in labhyrint\\beast in labhyrint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8CD4568-47D2-4BCC-B239-0C2029FD61D6}|Beast in Labhyrint\\Beast in Labhyrint.csproj|solutionrelative:beast in labhyrint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,24 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\borto\\source\\repos\\Moje-projekty\\Beast in Labhyrint\\Beast in Labhyrint\\Program.cs",
+              "DocumentMoniker": "O:\\C#\\Moje projekty\\Moje-projekty\\Beast in Labhyrint\\Beast in Labhyrint\\Program.cs",
               "RelativeDocumentMoniker": "Beast in Labhyrint\\Program.cs",
-              "ToolTip": "C:\\Users\\borto\\source\\repos\\Moje-projekty\\Beast in Labhyrint\\Beast in Labhyrint\\Program.cs",
+              "ToolTip": "O:\\C#\\Moje projekty\\Moje-projekty\\Beast in Labhyrint\\Beast in Labhyrint\\Program.cs",
               "RelativeToolTip": "Beast in Labhyrint\\Program.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAiwFgAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T17:59:47.195Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
