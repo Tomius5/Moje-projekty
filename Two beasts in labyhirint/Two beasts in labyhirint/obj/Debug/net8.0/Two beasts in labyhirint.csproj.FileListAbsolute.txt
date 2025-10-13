@@ -1,0 +1,14 @@
+C:\Users\borto\source\repos\Two beasts in labyhirint\Two beasts in labyhirint\bin\Debug\net8.0\Two beasts in labyhirint.exe
+C:\Users\borto\source\repos\Two beasts in labyhirint\Two beasts in labyhirint\bin\Debug\net8.0\Two beasts in labyhirint.deps.json
+C:\Users\borto\source\repos\Two beasts in labyhirint\Two beasts in labyhirint\bin\Debug\net8.0\Two beasts in labyhirint.runtimeconfig.json
+C:\Users\borto\source\repos\Two beasts in labyhirint\Two beasts in labyhirint\bin\Debug\net8.0\Two beasts in labyhirint.dll
+C:\Users\borto\source\repos\Two beasts in labyhirint\Two beasts in labyhirint\bin\Debug\net8.0\Two beasts in labyhirint.pdb
+C:\Users\borto\source\repos\Two beasts in labyhirint\Two beasts in labyhirint\obj\Debug\net8.0\Two beasts in labyhirint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borto\source\repos\Two beasts in labyhirint\Two beasts in labyhirint\obj\Debug\net8.0\Two beasts in labyhirint.AssemblyInfoInputs.cache
+C:\Users\borto\source\repos\Two beasts in labyhirint\Two beasts in labyhirint\obj\Debug\net8.0\Two beasts in labyhirint.AssemblyInfo.cs
+C:\Users\borto\source\repos\Two beasts in labyhirint\Two beasts in labyhirint\obj\Debug\net8.0\Two beasts in labyhirint.csproj.CoreCompileInputs.cache
+C:\Users\borto\source\repos\Two beasts in labyhirint\Two beasts in labyhirint\obj\Debug\net8.0\Two beasts in labyhirint.dll
+C:\Users\borto\source\repos\Two beasts in labyhirint\Two beasts in labyhirint\obj\Debug\net8.0\refint\Two beasts in labyhirint.dll
+C:\Users\borto\source\repos\Two beasts in labyhirint\Two beasts in labyhirint\obj\Debug\net8.0\Two beasts in labyhirint.pdb
+C:\Users\borto\source\repos\Two beasts in labyhirint\Two beasts in labyhirint\obj\Debug\net8.0\Two beasts in labyhirint.genruntimeconfig.cache
+C:\Users\borto\source\repos\Two beasts in labyhirint\Two beasts in labyhirint\obj\Debug\net8.0\ref\Two beasts in labyhirint.dll
