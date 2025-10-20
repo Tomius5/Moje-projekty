@@ -1,0 +1,7 @@
+C:\Users\borto\Documents\Programování\Moje-projekty\Knihovna matematických funkcí\Knihovna matematických funkcí\bin\Debug\Knihovna matematických funkcí.exe.config
+C:\Users\borto\Documents\Programování\Moje-projekty\Knihovna matematických funkcí\Knihovna matematických funkcí\bin\Debug\Knihovna matematických funkcí.exe
+C:\Users\borto\Documents\Programování\Moje-projekty\Knihovna matematických funkcí\Knihovna matematických funkcí\bin\Debug\Knihovna matematických funkcí.pdb
+C:\Users\borto\Documents\Programování\Moje-projekty\Knihovna matematických funkcí\Knihovna matematických funkcí\obj\Debug\Knihovna matematických funkcí.csproj.AssemblyReference.cache
+C:\Users\borto\Documents\Programování\Moje-projekty\Knihovna matematických funkcí\Knihovna matematických funkcí\obj\Debug\Knihovna matematických funkcí.csproj.CoreCompileInputs.cache
+C:\Users\borto\Documents\Programování\Moje-projekty\Knihovna matematických funkcí\Knihovna matematických funkcí\obj\Debug\Knihovna matematických funkcí.exe
+C:\Users\borto\Documents\Programování\Moje-projekty\Knihovna matematických funkcí\Knihovna matematických funkcí\obj\Debug\Knihovna matematických funkcí.pdb
