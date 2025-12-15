@@ -1,0 +1,14 @@
+C:\Users\borto\source\repos\14.12. práce se soubory\14.12. práce se soubory\obj\Debug\net8.0\14.12. práce se soubory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borto\source\repos\14.12. práce se soubory\14.12. práce se soubory\obj\Debug\net8.0\14.12. práce se soubory.AssemblyInfoInputs.cache
+C:\Users\borto\source\repos\14.12. práce se soubory\14.12. práce se soubory\obj\Debug\net8.0\14.12. práce se soubory.AssemblyInfo.cs
+C:\Users\borto\source\repos\14.12. práce se soubory\14.12. práce se soubory\obj\Debug\net8.0\14.12. práce se soubory.csproj.CoreCompileInputs.cache
+C:\Users\borto\source\repos\14.12. práce se soubory\14.12. práce se soubory\bin\Debug\net8.0\14.12. práce se soubory.exe
+C:\Users\borto\source\repos\14.12. práce se soubory\14.12. práce se soubory\bin\Debug\net8.0\14.12. práce se soubory.deps.json
+C:\Users\borto\source\repos\14.12. práce se soubory\14.12. práce se soubory\bin\Debug\net8.0\14.12. práce se soubory.runtimeconfig.json
+C:\Users\borto\source\repos\14.12. práce se soubory\14.12. práce se soubory\bin\Debug\net8.0\14.12. práce se soubory.dll
+C:\Users\borto\source\repos\14.12. práce se soubory\14.12. práce se soubory\bin\Debug\net8.0\14.12. práce se soubory.pdb
+C:\Users\borto\source\repos\14.12. práce se soubory\14.12. práce se soubory\obj\Debug\net8.0\14.12. práce se soubory.dll
+C:\Users\borto\source\repos\14.12. práce se soubory\14.12. práce se soubory\obj\Debug\net8.0\refint\14.12. práce se soubory.dll
+C:\Users\borto\source\repos\14.12. práce se soubory\14.12. práce se soubory\obj\Debug\net8.0\14.12. práce se soubory.pdb
+C:\Users\borto\source\repos\14.12. práce se soubory\14.12. práce se soubory\obj\Debug\net8.0\14.12. práce se soubory.genruntimeconfig.cache
+C:\Users\borto\source\repos\14.12. práce se soubory\14.12. práce se soubory\obj\Debug\net8.0\ref\14.12. práce se soubory.dll
