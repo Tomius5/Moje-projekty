@@ -9,7 +9,7 @@ namespace MinMax
     {
         static void Main(string[] args)
         {
-            var initialPiles = new List<int> { 3, 3, 3 };
+            var initialPiles = new List<int> { 2, 2 };
             bool botStarts = true;
 
             var game = new NimGame(initialPiles, botStarts);
