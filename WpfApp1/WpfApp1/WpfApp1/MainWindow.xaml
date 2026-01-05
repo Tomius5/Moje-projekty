@@ -1,0 +1,55 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*" />
+            <ColumnDefinition Width="3*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Column="0" Grid.Row="0" Grid.RowSpan="5" Margin="10">
+            <Button x:Name="colors" Content="Výsledná barva" Height="200" Click="colors_Click"/>
+        </StackPanel>
+        <Grid Grid.Column="1" Grid.Row="0" Margin="10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Label Content="Červená" Background="Red" Foreground="White" Padding="10" Grid.Row="0" Grid.Column="0"/>
+            <TextBox x:Name="textR" Width="50" Margin="5" Grid.Row="0" Grid.Column="1" TextChanged="TextBox_TextChanged_1"/>
+            <Slider x:Name="scrollR" Maximum="255" Grid.Row="0" Grid.Column="2" ValueChanged="scrollR_ValueChanged"/>
+            <Label x:Name="labelR" Content="0" Grid.Row="0" Grid.Column="3"/>
+            <Label Content="Zelená" Background="Green" Foreground="White" Padding="10" Grid.Row="1" Grid.Column="0"/>
+            <TextBox x:Name="textG" Width="50" Margin="5" Grid.Row="1" Grid.Column="1" TextChanged="textG_TextChanged"/>
+            <Slider x:Name="scrollG" Maximum="255" Grid.Row="1" Grid.Column="2" ValueChanged="scrollG_ValueChanged"/>
+            <Label x:Name="labelG" Content="0" Grid.Row="1" Grid.Column="3"/>
+            <Label Content="Modrá" Background="Blue" Foreground="White" Padding="10" Grid.Row="2" Grid.Column="0"/>
+            <TextBox x:Name="textB" Width="50" Margin="5" Grid.Row="2" Grid.Column="1" TextChanged="textB_TextChanged"/>
+            <Slider x:Name="scrollB" Maximum="255" Grid.Row="2" Grid.Column="2" ValueChanged="scrollB_ValueChanged"/>
+            <Label x:Name="labelB" Content="0" Grid.Row="2" Grid.Column="3"/>
+
+            <Label x:Name="hexLabel" Content="HEX" FontWeight="Bold" FontSize="16" Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="4" HorizontalAlignment="Center" Margin="0,10,0,0"/>
+        </Grid>
+    </Grid>
+
+</Window>
