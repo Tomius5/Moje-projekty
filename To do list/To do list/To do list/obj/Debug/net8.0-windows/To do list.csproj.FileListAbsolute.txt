@@ -1,0 +1,42 @@
+O:\C#\Moje projekty\To do list\To do list\bin\Debug\net8.0-windows\To do list.exe
+O:\C#\Moje projekty\To do list\To do list\bin\Debug\net8.0-windows\To do list.deps.json
+O:\C#\Moje projekty\To do list\To do list\bin\Debug\net8.0-windows\To do list.runtimeconfig.json
+O:\C#\Moje projekty\To do list\To do list\bin\Debug\net8.0-windows\To do list.dll
+O:\C#\Moje projekty\To do list\To do list\bin\Debug\net8.0-windows\To do list.pdb
+O:\C#\Moje projekty\To do list\To do list\obj\Debug\net8.0-windows\MainWindow.g.cs
+O:\C#\Moje projekty\To do list\To do list\obj\Debug\net8.0-windows\App.g.cs
+O:\C#\Moje projekty\To do list\To do list\obj\Debug\net8.0-windows\To do list_MarkupCompile.cache
+O:\C#\Moje projekty\To do list\To do list\obj\Debug\net8.0-windows\To do list_MarkupCompile.lref
+O:\C#\Moje projekty\To do list\To do list\obj\Debug\net8.0-windows\MainWindow.baml
+O:\C#\Moje projekty\To do list\To do list\obj\Debug\net8.0-windows\To do list.g.resources
+O:\C#\Moje projekty\To do list\To do list\obj\Debug\net8.0-windows\To do list.GeneratedMSBuildEditorConfig.editorconfig
+O:\C#\Moje projekty\To do list\To do list\obj\Debug\net8.0-windows\To do list.AssemblyInfoInputs.cache
+O:\C#\Moje projekty\To do list\To do list\obj\Debug\net8.0-windows\To do list.AssemblyInfo.cs
+O:\C#\Moje projekty\To do list\To do list\obj\Debug\net8.0-windows\To do list.csproj.CoreCompileInputs.cache
+O:\C#\Moje projekty\To do list\To do list\obj\Debug\net8.0-windows\To do list.sourcelink.json
+O:\C#\Moje projekty\To do list\To do list\obj\Debug\net8.0-windows\To do list.dll
+O:\C#\Moje projekty\To do list\To do list\obj\Debug\net8.0-windows\refint\To do list.dll
+O:\C#\Moje projekty\To do list\To do list\obj\Debug\net8.0-windows\To do list.pdb
+O:\C#\Moje projekty\To do list\To do list\obj\Debug\net8.0-windows\To do list.genruntimeconfig.cache
+O:\C#\Moje projekty\To do list\To do list\obj\Debug\net8.0-windows\ref\To do list.dll
+C:\Users\borto\Documents\Programování\githudetskop\Moje-projekty\To do list\To do list\To do list\bin\Debug\net8.0-windows\To do list.exe
+C:\Users\borto\Documents\Programování\githudetskop\Moje-projekty\To do list\To do list\To do list\bin\Debug\net8.0-windows\To do list.deps.json
+C:\Users\borto\Documents\Programování\githudetskop\Moje-projekty\To do list\To do list\To do list\bin\Debug\net8.0-windows\To do list.runtimeconfig.json
+C:\Users\borto\Documents\Programování\githudetskop\Moje-projekty\To do list\To do list\To do list\bin\Debug\net8.0-windows\To do list.dll
+C:\Users\borto\Documents\Programování\githudetskop\Moje-projekty\To do list\To do list\To do list\bin\Debug\net8.0-windows\To do list.pdb
+C:\Users\borto\Documents\Programování\githudetskop\Moje-projekty\To do list\To do list\To do list\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\borto\Documents\Programování\githudetskop\Moje-projekty\To do list\To do list\To do list\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\borto\Documents\Programování\githudetskop\Moje-projekty\To do list\To do list\To do list\obj\Debug\net8.0-windows\To do list_MarkupCompile.cache
+C:\Users\borto\Documents\Programování\githudetskop\Moje-projekty\To do list\To do list\To do list\obj\Debug\net8.0-windows\To do list_MarkupCompile.lref
+C:\Users\borto\Documents\Programování\githudetskop\Moje-projekty\To do list\To do list\To do list\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\borto\Documents\Programování\githudetskop\Moje-projekty\To do list\To do list\To do list\obj\Debug\net8.0-windows\To do list.g.resources
+C:\Users\borto\Documents\Programování\githudetskop\Moje-projekty\To do list\To do list\To do list\obj\Debug\net8.0-windows\To do list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borto\Documents\Programování\githudetskop\Moje-projekty\To do list\To do list\To do list\obj\Debug\net8.0-windows\To do list.AssemblyInfoInputs.cache
+C:\Users\borto\Documents\Programování\githudetskop\Moje-projekty\To do list\To do list\To do list\obj\Debug\net8.0-windows\To do list.AssemblyInfo.cs
+C:\Users\borto\Documents\Programování\githudetskop\Moje-projekty\To do list\To do list\To do list\obj\Debug\net8.0-windows\To do list.csproj.CoreCompileInputs.cache
+C:\Users\borto\Documents\Programování\githudetskop\Moje-projekty\To do list\To do list\To do list\obj\Debug\net8.0-windows\To do list.sourcelink.json
+C:\Users\borto\Documents\Programování\githudetskop\Moje-projekty\To do list\To do list\To do list\obj\Debug\net8.0-windows\To do list.dll
+C:\Users\borto\Documents\Programování\githudetskop\Moje-projekty\To do list\To do list\To do list\obj\Debug\net8.0-windows\refint\To do list.dll
+C:\Users\borto\Documents\Programování\githudetskop\Moje-projekty\To do list\To do list\To do list\obj\Debug\net8.0-windows\To do list.pdb
+C:\Users\borto\Documents\Programování\githudetskop\Moje-projekty\To do list\To do list\To do list\obj\Debug\net8.0-windows\To do list.genruntimeconfig.cache
+C:\Users\borto\Documents\Programování\githudetskop\Moje-projekty\To do list\To do list\To do list\obj\Debug\net8.0-windows\ref\To do list.dll
