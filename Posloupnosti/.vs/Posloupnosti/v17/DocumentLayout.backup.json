@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\borto\\source\\repos\\Posloupnosti\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F6F563-DA3C-4723-8901-B4D5342C927D}|Posloupnosti\\Posloupnosti.csproj|c:\\users\\borto\\source\\repos\\posloupnosti\\posloupnosti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F6F563-DA3C-4723-8901-B4D5342C927D}|Posloupnosti\\Posloupnosti.csproj|solutionrelative:posloupnosti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\borto\\source\\repos\\Posloupnosti\\Posloupnosti\\Program.cs",
+              "RelativeDocumentMoniker": "Posloupnosti\\Program.cs",
+              "ToolTip": "C:\\Users\\borto\\source\\repos\\Posloupnosti\\Posloupnosti\\Program.cs",
+              "RelativeToolTip": "Posloupnosti\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T17:03:53.979Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

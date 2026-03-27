@@ -1,0 +1,14 @@
+C:\Users\borto\source\repos\Posloupnosti\Posloupnosti\bin\Debug\net8.0\Posloupnosti.exe
+C:\Users\borto\source\repos\Posloupnosti\Posloupnosti\bin\Debug\net8.0\Posloupnosti.deps.json
+C:\Users\borto\source\repos\Posloupnosti\Posloupnosti\bin\Debug\net8.0\Posloupnosti.runtimeconfig.json
+C:\Users\borto\source\repos\Posloupnosti\Posloupnosti\bin\Debug\net8.0\Posloupnosti.dll
+C:\Users\borto\source\repos\Posloupnosti\Posloupnosti\bin\Debug\net8.0\Posloupnosti.pdb
+C:\Users\borto\source\repos\Posloupnosti\Posloupnosti\obj\Debug\net8.0\Posloupnosti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borto\source\repos\Posloupnosti\Posloupnosti\obj\Debug\net8.0\Posloupnosti.AssemblyInfoInputs.cache
+C:\Users\borto\source\repos\Posloupnosti\Posloupnosti\obj\Debug\net8.0\Posloupnosti.AssemblyInfo.cs
+C:\Users\borto\source\repos\Posloupnosti\Posloupnosti\obj\Debug\net8.0\Posloupnosti.csproj.CoreCompileInputs.cache
+C:\Users\borto\source\repos\Posloupnosti\Posloupnosti\obj\Debug\net8.0\Posloupnosti.dll
+C:\Users\borto\source\repos\Posloupnosti\Posloupnosti\obj\Debug\net8.0\refint\Posloupnosti.dll
+C:\Users\borto\source\repos\Posloupnosti\Posloupnosti\obj\Debug\net8.0\Posloupnosti.pdb
+C:\Users\borto\source\repos\Posloupnosti\Posloupnosti\obj\Debug\net8.0\Posloupnosti.genruntimeconfig.cache
+C:\Users\borto\source\repos\Posloupnosti\Posloupnosti\obj\Debug\net8.0\ref\Posloupnosti.dll
